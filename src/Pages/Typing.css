@@ -1,0 +1,52 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    
+}
+.fullbody
+{
+    /* background-color: rgb(185, 148, 113); */
+    width: 100%;
+    height: 90.4vh;
+    padding: 1rem;
+    border: 3rem solid #052f4a;
+    background-color: #0b2536;
+    box-shadow: inset 0 0 10rem black !important;
+      
+}
+
+.paragraph
+{
+    padding-top: 0.5%;
+    text-align: center;
+    font-size: 1.8rem;
+    text-align: justify, center;
+    color: white;
+}
+.textarea
+{
+    margin-left: 39.5%;
+    padding: 3%;
+}
+.errorcount
+{
+    padding-top: 2%;
+    text-align: center;
+    font-size: 1.5rem;
+    text-align: justify, center;
+    color: red;
+}
+.buttonstyle
+{
+    margin-left: 47.5%;
+    margin-top: 1%;
+}
+.getname
+{
+    color: #fffdd0;
+    text-align: center;
+    font-size: 2rem;
+    text-transform: uppercase;
+    /* text-shadow: 3px 3px 3px lawngreen; */
+}
